@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "448243941382",
+    "firebase_url": "https://online-ticketing-system-220ab.firebaseio.com",
+    "project_id": "online-ticketing-system-220ab",
+    "storage_bucket": "online-ticketing-system-220ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448243941382:android:01e016b59ec7fb996c8387",
+        "android_client_info": {
+          "package_name": "com.csse.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448243941382-kuapjdj47rul7poe6k5oq3k0nrt232cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.csse.driverapp",
+            "certificate_hash": "ff55f29d8bfaac9ede1cb0306d06cd151ca434b2"
+          }
+        },
+        {
+          "client_id": "448243941382-9jil37o8e1rm6v32g71h3h9ktdddn9p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRx5Grkj3aAtj67X1mxnU2q9X6zladtT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448243941382-9jil37o8e1rm6v32g71h3h9ktdddn9p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448243941382:android:8adb08ed8fe5eb9f6c8387",
+        "android_client_info": {
+          "package_name": "com.csse.passengerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448243941382-9jil37o8e1rm6v32g71h3h9ktdddn9p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRx5Grkj3aAtj67X1mxnU2q9X6zladtT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448243941382-9jil37o8e1rm6v32g71h3h9ktdddn9p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448243941382:android:ba0cefb568aac1086c8387",
+        "android_client_info": {
+          "package_name": "com.example.onlineticketingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448243941382-rpbj5pthdh0jufuslmv0o3trq55dh987.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlineticketingsystem",
+            "certificate_hash": "7be5b293f1600064e362b8bb865067d293298b9d"
+          }
+        },
+        {
+          "client_id": "448243941382-9jil37o8e1rm6v32g71h3h9ktdddn9p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRx5Grkj3aAtj67X1mxnU2q9X6zladtT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448243941382-9jil37o8e1rm6v32g71h3h9ktdddn9p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
